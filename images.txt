@@ -1,1 +1,1 @@
-DockerHub/1304634714/livo2:latest
+docker.io/1304634714/livo2:latest
